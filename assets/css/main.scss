@@ -40,4 +40,11 @@
     "vendor/font-awesome/fontawesome",
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
+   
 ;
+/* --- Canvi de Tipografia Personalitzat --- */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap');
+
+body, h1, h2, h3, h4, h5, h6, p, li, a, .page__title {
+  font-family: 'Roboto', sans-serif !important;
+}
