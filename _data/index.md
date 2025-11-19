@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /index/
 title: "Benvinguts al meu Portfoli Digital"
 excerpt: "Professor d'Informàtica (FP) especialitzat en Desenvolupament d'Aplicacions i Administració de Sistemes."
 author_profile: true
