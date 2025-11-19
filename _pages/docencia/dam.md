@@ -4,7 +4,7 @@ permalink: /dam/
 layout: single
 author_profile: false
 header:
-  overlay_image: /images/capcalera-dam.jpg
+  overlay_image: images/capcalera-dam.jpg
   overlay_filter: 0.5 # Això enfosqueix la foto un 50% perquè es llegeixi el text blanc
   caption: "Cicle Formatiu de Grau Superior"
 ---
