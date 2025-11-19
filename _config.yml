@@ -55,17 +55,7 @@ author:
   # Social media
   artstation       : # Username
   bluesky          : # Replace this with you Bluesky username
-  facebook         : 
-  links:
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/oriolgomezdiaz/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/oriolgomezdiaz"
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:el_teu_email@exemple.com"# Username
+  facebook         : # username
   flickr           : # Username
   foursquare       : # Username
   goodreads        : # Username
@@ -73,13 +63,13 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # "linkedin.com/oriolgomezdiaz"
+  linkedin         : "https://www.linkedin.com/in/oriolgomezdiaz/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
   soundcloud       : # Username
   steam            : # Username
-  telegram         : # URL
+  telegram         : "@oriolgomezdiaz"
   tumblr           : # Username
   twitter          : # Username for X / Twitter
   vine             : # Username
