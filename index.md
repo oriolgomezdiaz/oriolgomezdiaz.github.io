@@ -7,7 +7,7 @@ author_profile: true
 
 Hola! Soc **Oriol Gómez Díaz**, professor tècnic de Formació Professional en la família d'Informàtica i Comunicacions.
 
-Als darrers tres anys, he combinat la meva passió per la tecnologia amb la docència, impartint classes en diversos instituts de Catalunya. El meu perfil és polivalent, abastant tant el **Desenvolupament de Programari (DAM)** com l'**Administració de Sistemes i Bases de Dades (ASIX)**.
+En els darrers tres anys, he combinat la meva passió per la tecnologia amb la docència, impartint classes en diversos instituts de Catalunya. El meu perfil és polivalent, abastant tant el **Desenvolupament de Programari (DAM)** com l'**Administració de Sistemes i Bases de Dades (ASIX)**.
 
 Aquest web serveix com a repositori obert dels meus recursos docents, projectes acadèmics i experiència professional.
 
