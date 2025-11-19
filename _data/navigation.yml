@@ -8,11 +8,29 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
-  - title: "Sobre mi"
+  - title: "Inici"
     url: /
-  - title: "DAM"
+  - title: "Docència DAM"
     url: /dam/
-  - title: "ASIX"
+    children:
+      - title: "Sistemes Informàtics (SI)"
+        url: /dam/sistemes-informatics/
+      - title: "Digitalització (DAE)"
+        url: /dam/digitalitzacio/
+      - title: "Desenv. Interfícies (DI)"
+        url: /dam/interficies/
+      - title: "Sistemes Gestió (SGE)"
+        url: /dam/sge/
+  - title: "Docència ASIX"
     url: /asix/
-  - title: "Currículum"
+    children:
+      - title: "Gestió BD (GBD)"
+        url: /asix/gbd/
+      - title: "Admin. SGBD (ASGBD)"
+        url: /asix/asgbd/
+  - title: "Investigació i Projectes"
+    url: /projectes-academics/
+  - title: "Bloc"
+    url: /bloc/
+  - title: "Currículum i Contacte"
     url: /cv/
