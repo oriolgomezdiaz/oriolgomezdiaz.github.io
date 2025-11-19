@@ -41,3 +41,8 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+/* Estils per forçar la lletra */
+body, h1, h2, h3, h4, h5, h6, p, li, a, .page__title {
+  font-family: 'Roboto', sans-serif !important;
+}
