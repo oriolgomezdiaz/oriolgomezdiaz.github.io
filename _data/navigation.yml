@@ -9,7 +9,7 @@
 
 main:
   - title: "Inici"
-    url: /
+    url: /index/
   - title: "Docència DAM"
     url: /dam/
     children:
