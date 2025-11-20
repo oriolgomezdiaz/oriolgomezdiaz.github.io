@@ -4,7 +4,7 @@ permalink: /dam/
 layout: splash
 author_profile: false
 header:
-  overlay_image: /images/capcalera-dam.jpg
+  overlay_image: capcalera-dam.jpg
   overlay_filter: 0.5
   caption: "Cicle Formatiu de Grau Superior"
   actions:
