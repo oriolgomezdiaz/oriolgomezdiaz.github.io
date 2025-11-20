@@ -1,20 +1,16 @@
 ---
 title: "Desenvolupament d'Aplicacions Multiplataforma"
 permalink: /dam/
-layout: single
+layout: splash
 author_profile: false
 header:
-  overlay_image: /images/capcalera-dam.jpg
+  overlay_image: /assets/images/capcalera-dam.jpg
   overlay_filter: 0.5
   caption: "Cicle Formatiu de Grau Superior"
----
-
-Benvinguts a la secció de recursos docents del cicle de **DAM**. 
-
-En aquest espai he recopilat els materials, pràctiques i referències dels mòduls que he impartit com a docent. L'objectiu d'aquest cicle és formar professionals capaços de desenvolupar, implantar i mantenir aplicacions informàtiques multiplataforma, utilitzant tecnologies específiques i garantint l'accés a les dades de forma segura.
-
-A continuació trobareu l'accés directe als continguts de cada mòdul:
-
+  actions:
+    - label: "Veure Mòduls"
+      url: "#mòduls-impartits"
+excerpt: "Recursos docents, pràctiques i materials per al cicle de DAM."
 ---
 
 ## 📚 Mòduls Impartits
