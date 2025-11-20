@@ -55,7 +55,7 @@ Ens centrem en el control d'accés, la gestió de privilegis i com assegurar les
     * [📄 Descarregar Apunts T2 (PDF)](/assets/pdfs/Apunts_GS_0377_2.1_IEDIB.pdf){: .btn .btn--success .btn--small}
 
 ### 📺 Vídeos explicatius
-* [▶️ Creació d'usuaris](https://youtu.be/Ddpy5NRpb9o)
+* [▶️ Creació d'usuaris](https://youtu.be/Ddpy5NRpb9o){: target="_blank"}
 
 ### 🛠️ Exercicis i Pràctiques
 1.  **Pràctica 4:** Implementació de Rols i polítiques de contrasenyes.
