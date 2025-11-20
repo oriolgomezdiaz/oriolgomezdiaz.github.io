@@ -4,7 +4,7 @@ permalink: /dam/
 layout: splash
 author_profile: false
 header:
-  overlay_image: "https://oriolgomezdiaz.github.io/images/capcalera-dam.jpg"
+  overlay_image: 'images/ima-dam.jpg'
   overlay_filter: 0.5
   caption: "Cicle Formatiu de Grau Superior"
   actions:
