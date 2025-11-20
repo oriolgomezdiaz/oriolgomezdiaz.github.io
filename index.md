@@ -57,10 +57,10 @@ Aquestes són les tecnologies amb les que treballo habitualment a l'aula i en pr
 
 | Àrea | Tecnologies |
 |---|---|
-| **Llenguatges** | Java, Python, SQL, PL/SQL, Bash |
-| **Web & UI** | HTML5/CSS3, JavaFX, Markdown |
+| **Llenguatges** | Java, SQL, PL/SQL |
+| **Web & UI** | HTML5/CSS3, Markdown, Figma |
 | **Bases de Dades** | MySQL, PostgreSQL, MongoDB |
-| **Sistemes** | Linux (Ubuntu/Debian), Docker, Git |
+| **Sistemes** | Linux, Docker, Git |
 
 ---
 
