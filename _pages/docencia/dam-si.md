@@ -1,5 +1,5 @@
 ---
-title: "M01 - Sistemes Informàtics"
+title: "0483 - Sistemes Informàtics"
 permalink: /dam/sistemes-informatics/
 layout: single
 author_profile: false
@@ -15,7 +15,9 @@ header:
 
 Benvinguts al mòdul de **Sistemes Informàtics**. Aquest és el mòdul base on aprenem com funciona l'ordinador per dins, com instal·lar i administrar sistemes operatius (propietaris i lliures) i com connectar-los en xarxa.
 
-**⚠️ Requisits previs:** Per realitzar les pràctiques necessitareu un ordinador amb suport per a virtualització i tenir instal·lat [VirtualBox](https://www.virtualbox.org/).
+**⚠️ Requisits previs:** Per realitzar les pràctiques necessitareu:
+* **VirtualBox** Un ordinador amb suport per a virtualització i tenir instal·lat [VirtualBox](https://www.virtualbox.org/).
+* **Cisco Packet Tracer** Instal·lació del software de simulació Cisco PacketTracer.
 
 ---
 
@@ -53,8 +55,7 @@ Aprenem a instal·lar, configurar i administrar Windows i Linux (Ubuntu/Debian) 
     * [📄 Descarregar "Cheat Sheet" Linux](/assets/pdfs/si-linux-cheatsheet.pdf){: .btn .btn--info .btn--small}
 
 ### 📺 Vídeos explicatius
-* [▶️ Instal·lació de Windows 10 en VirtualBox](https://youtube.com/...)
-* [▶️ Instal·lació d'Ubuntu Server (sense interfície gràfica)](https://youtube.com/...)
+* [▶️ Instal·lació d'Ubuntu Server a VirtualBox)]()
 * [▶️ Gestió d'usuaris i permisos a Linux (chmod/chown)](https://youtube.com/...)
 
 ### 🛠️ Exercicis i Pràctiques
@@ -75,9 +76,9 @@ Introducció a les xarxes locals, adreçament IP i configuració de serveis bàs
     * [📄 Descarregar Apunts Xarxes (PDF)](/assets/pdfs/si-tema5-xarxes.pdf){: .btn .btn--info .btn--small}
 
 ### 📺 Vídeos explicatius
-* [▶️ Què és una IP i una Màscara de Subxarxa?](https://youtube.com/...)
-* [▶️ Com configurar una xarxa NAT vs Bridge a VirtualBox](https://youtube.com/...)
-* [▶️ Ús de comandes de xarxa: ping, tracert, ipconfig](https://youtube.com/...)
+* [▶️ Creació d'una VLAN amb Packet Tracer](https://youtu.be/_zjfXwI5GD4)
+* [▶️ Creació VLAN amb Packet Tracer i configuració per consola] (https://youtu.be/vA_bUt57PL0)
+
 
 ### 🛠️ Exercicis i Pràctiques
 1.  **Pràctica 7:** Configuració d'IPs estàtiques en una LAN virtual.
