@@ -4,9 +4,9 @@ permalink: /asix/
 layout: splash
 author_profile: false
 header:
-  overlay_image: "https://images.unsplash.com/photo-1558494949-ef526b0042a0?ixlib=rb-1.2.1&auto=format&fit=crop&w=1920&q=80"
+  overlay_image: "ima-database.jpg"
   overlay_filter: 0.5
-  caption: "Cicle Formatiu de Grau Superior"
+  caption: "Infraestructura i Dades"
   actions:
     - label: "Veure Mòduls"
       url: "#mòduls-impartits"
@@ -17,22 +17,20 @@ Benvinguts a l'àrea d'**ASIX**.
 
 En aquest espai trobareu la documentació tècnica i els tallers pràctics relacionats amb la gestió de dades i la infraestructura de servidors. L'objectiu és dominar tant el disseny de bases de dades com la seva administració avançada en entorns de producció.
 
-<h2 id="mòduls-impartits">🗄️ Mòduls Impartits</h2>
+## 🗄️ Mòduls Impartits
 
-<div class="feature__wrapper">
+### 📊 M02 - Gestió de Bases de Dades
+**Codi: 0372**
 
-  <div class="feature__item">
-    <h3>📊 0372 - Gestió de Bases de Dades</h3>
-    <p><strong>Codi: 0372</strong></p>
-    <p>Fonaments del model relacional, disseny de diagrames E-R i llenguatge SQL estàndard.</p>
-    <p><a href="/asix/gbd/" class="btn btn--success">Accedir al material</a></p>
-  </div>
+El mòdul de Gestió de Bases de Dades (GBD) estableix els fonaments per a l'arquitectura de la informació, peça clau en qualsevol desenvolupament de programari. L'alumnat aprèn a modelar la realitat mitjançant el disseny conceptual i lògic (Model E/R i Normalització) fins a la seva implementació física en Sistemes Gestors de Bases de Dades (SGBD). El curs aprofundeix en el domini del llenguatge SQL per a la definició d'estructures i la manipulació avançada de dades, així com en la creació de lògica de negoci al servidor (procediments i scripts). Finalment, s'aborden aspectes crítics com la gestió de transaccions, la seguretat i les polítiques de còpies de seguretat per garantir la integritat i disponibilitat de la informació.
 
-  <div class="feature__item">
-    <h3>🔒 0377 - Administració de Sistemes Gestors de Bases de Dades</h3>
-    <p><strong>Codi: 0377</strong></p>
-    <p>Seguretat, usuaris, còpies de seguretat, optimització de consultes i programació PL/SQL.</p>
-    <p><a href="/asix/asgbd/" class="btn btn--success">Accedir al material</a></p>
-  </div>
+[Accedir al material](/asix/gbd/){: .btn .btn--success}
 
-</div>
+---
+
+### 🔒 M10 - Administració de SGBD
+**Codi: 0377**
+
+El mòdul d'Administració de Sistemes Gestors de Bases de Dades aprofundeix en les tasques crítiques per garantir el rendiment, la seguretat i la disponibilitat de la informació corporativa. El curs capacita l'alumnat per instal·lar i configurar motors de bases de dades en diverses arquitectures, gestionant de forma rigorosa el control d'accés (usuaris, rols i privilegis) i l'automatització de tasques administratives mitjançant guions (scripts) i disparadors. A més, es posa un focus especial en l'optimització del sistema, utilitzant eines de monitoratge i indexació per millorar els temps de resposta, i es culmina amb la implementació d'entorns d'alta disponibilitat mitjançant tècniques de replicació i bases de dades distribuïdes.
+
+[Accedir al material](/asix/asgbd/){: .btn .btn--success}
