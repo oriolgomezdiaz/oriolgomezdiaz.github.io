@@ -13,7 +13,7 @@ author_profile: false
     margin-left: -50vw; 
     margin-right: -50vw; 
     height: 400px; 
-    background-image: url('/images/capcalera-dam.jpg'); 
+    background-image: url('oriolgomezdiaz/oriolgomezdiaz.github.io/images/capcalera-dam.jpg'); 
     background-size: cover; 
     background-position: center; 
     display: flex; 
