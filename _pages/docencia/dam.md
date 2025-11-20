@@ -3,10 +3,36 @@ title: "Desenvolupament d'Aplicacions Multiplataforma"
 permalink: /dam/
 layout: single
 author_profile: false
-header:
-  overlay_image: overlay_image: https://images.unsplash.com/photo-1517694712202-14dd9538aa97?ixlib=rb-1.2.1&auto=format&fit=crop&w=1920&q=80
-  overlay_filter: 0.5 # Això enfosqueix la foto un 50% perquè es llegeixi el text blanc
-  caption: "Cicle Formatiu de Grau Superior"
+---
+
+<div style="
+    width: 100vw; 
+    position: relative; 
+    left: 50%; 
+    right: 50%; 
+    margin-left: -50vw; 
+    margin-right: -50vw; 
+    height: 400px; 
+    background-image: url('/assets/images/capcalera-dam.jpg'); 
+    background-size: cover; 
+    background-position: center; 
+    display: flex; 
+    align-items: center; 
+    justify-content: center; 
+    margin-bottom: 30px;
+    color: white;
+    text-align: center;">
+    
+    <h1 style="
+        background-color: rgba(0,0,0,0.6); 
+        padding: 20px; 
+        border-radius: 5px; 
+        color: white; 
+        text-transform: uppercase;
+        font-size: 2.5em;">
+        Recursos DAM
+    </h1>
+</div>
 ---
 
 Benvinguts a la secció de recursos docents del cicle de **DAM**. 
