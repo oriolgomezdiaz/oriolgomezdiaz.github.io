@@ -4,7 +4,7 @@ permalink: /dam/
 layout: single
 author_profile: false
 header:
-  overlay_image: oriolgomezdiaz/oriolgomezdiaz.github.io/images/capcalera-dam.jpg
+  overlay_image: overlay_image: https://images.unsplash.com/photo-1517694712202-14dd9538aa97?ixlib=rb-1.2.1&auto=format&fit=crop&w=1920&q=80
   overlay_filter: 0.5 # Això enfosqueix la foto un 50% perquè es llegeixi el text blanc
   caption: "Cicle Formatiu de Grau Superior"
 ---
