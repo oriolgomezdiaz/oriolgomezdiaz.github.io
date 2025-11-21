@@ -55,7 +55,7 @@ header:
   display: inline-block;
   margin-top: 20px;
   padding: 12px 25px;
-  background-color: #e67e22; /* Taronja per diferenciar de docència */
+  background-color: #476e8dff; /* Taronja per diferenciar de docència */
   color: white !important;
   text-decoration: none !important;
   border-radius: 5px;
