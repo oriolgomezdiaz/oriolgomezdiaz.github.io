@@ -76,8 +76,8 @@ Introducció a les xarxes locals, adreçament IP i configuració de serveis bàs
     * [📄 Descarregar Apunts Xarxes (PDF)](/assets/pdfs/si-tema5-xarxes.pdf){: .btn .btn--info .btn--small}
 
 ### 📺 Vídeos explicatius
-* [▶️ Creació d'una VLAN amb Packet Tracer](https://youtu.be/_zjfXwI5GD4) {: target="_blank"}
-* [▶️ Creació d'una VLAN usant la consola](https://youtu.be/vA_bUt57PL0) {: target="_blank"}
+* [▶️ Creació d'una VLAN amb Packet Tracer](https://youtu.be/_zjfXwI5GD4){: target="_blank"}
+* [▶️ Creació d'una VLAN usant la consola](https://youtu.be/vA_bUt57PL0){: target="_blank"}
 
 
 ### 🛠️ Exercicis i Pràctiques
