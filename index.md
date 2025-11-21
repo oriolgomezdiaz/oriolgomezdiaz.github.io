@@ -4,30 +4,6 @@ title: "Benvinguts al meu Portfoli Digital"
 excerpt: "Professor d'Informàtica (FP) especialitzat en Desenvolupament d'Aplicacions i Administració de Sistemes."
 author_profile: true
 ---
-Per descomptat! El contingut que has escrit és excel·lent (molt personal i professional), però tens raó: ara mateix és un mur de text.
-
-Podem aplicar la mateixa tècnica de "Graella / Targetes" que hem fet servir a les pàgines de DAM i Projectes per fer que la portada sigui impactant. A més, podem afegir una petita secció "Hero" (una benvinguda destacada).
-
-Aquí tens una proposta de disseny complet per al teu index.md.
-
-Què canviarem?
-
-Biografia destacada: En lloc de text pla, el posarem dins d'una caixa suau per destacar-lo.
-
-Accessos ràpids: Els 3 blocs (DAM, ASIX, Projectes) seran targetes clicables grans, molt més visuals.
-
-Stack Tecnològic: En lloc d'una taula avorrida, farem servir "etiquetes" (badges) de colors.
-
-Copia i substitueix tot el contingut del teu index.md:
-
-Markdown
-
----
-permalink: /
-title: "Benvinguts al meu Portfoli Digital"
-excerpt: "Professor d'Informàtica (FP) especialitzat en Desenvolupament d'Aplicacions i Administració de Sistemes."
-author_profile: true
----
 
 <style>
 /* Estils per a les targetes principals */
