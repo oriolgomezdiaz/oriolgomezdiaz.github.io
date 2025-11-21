@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Portfoli digital"
+title                    : "Portfoli Oriol Gómez"
 title_separator          : "-"
 name                     : "Oriol Gómez Díaz"
 description              : "Aquest és el portfoli digital d'Oriol Gómez Díaz. Enginyer informàtic i professor de Formació Professional"   # Update this with a general description of your site, this is the default if not overridden by a page
