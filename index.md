@@ -4,69 +4,175 @@ title: "Benvinguts al meu Portfoli Digital"
 excerpt: "Professor d'Informàtica (FP) especialitzat en Desenvolupament d'Aplicacions i Administració de Sistemes."
 author_profile: true
 ---
+Per descomptat! El contingut que has escrit és excel·lent (molt personal i professional), però tens raó: ara mateix és un mur de text.
 
-Hola! Soc **Oriol Gómez Díaz**, enginyer tècnic informàtic i professor de Formació Professional en la família d'Informàtica i Comunicacions.
+Podem aplicar la mateixa tècnica de "Graella / Targetes" que hem fet servir a les pàgines de DAM i Projectes per fer que la portada sigui impactant. A més, podem afegir una petita secció "Hero" (una benvinguda destacada).
 
-Sóc docent de Formació Professional per vocació i Enginyer Informàtic per convicció. Actualment, estic en el meu tercer any com a professor, impartint el CFGS d'Administració de Sistemes i Xarxes (ASIX) a l'IEDIB. Anteriorment, dos anys formant desenvolupadors cursant el CFGS de Desenvolupament d'Aplicacions Multiplataforma (DAM) al CIFP Pere de Son Gall (Llucmajor).
+Aquí tens una proposta de disseny complet per al teu index.md.
 
-El meu camí fins aquí no ha estat lineal, i això és el que més valor aporta a les meves classes. Abans d'entrar a l'aula, vaig treballar intensament en diferents àmbits relacionats amb la tecnologia. Des de l'administració de sistemes a la gestió de projectes tecnològics, des de l'administració d'equips en Windows i Linux, a la instal·lació de dispositius wifi i sistemes de telefonia IP. 
-Als darrers anys, especialitzat en CRM, en concret, en l'ecosistema Salesforce (certificat com a Administrador i Service Cloud Consultant) i en rols de Project & Product Management.
+Què canviarem?
 
-Aquesta etapa al sector privat em va ensenyar a gestionar equips, a pensar ràpid en entorns operatius exigents i a tenir una visió estratègica del negoci.
+Biografia destacada: En lloc de text pla, el posarem dins d'una caixa suau per destacar-lo.
 
-La pandèmia em va dur a canviar la perspectiva: vaig decidir acabar el Grau en Enginyeria Informàtica i fer el Màster de Professorat per encaminar la meva carrera a la formació dels joves.
+Accessos ràpids: Els 3 blocs (DAM, ASIX, Projectes) seran targetes clicables grans, molt més visuals.
 
-Així, des del curs 2023/2024, he combinat la meva passió per la tecnologia amb la docència, impartint classes en diversos instituts de les Illes. El meu perfil és polivalent, abastant tant el **Desenvolupament de Programari (DAM)** com l'**Administració de Sistemes i Bases de Dades (ASIX)**.
+Stack Tecnològic: En lloc d'una taula avorrida, farem servir "etiquetes" (badges) de colors.
 
-Aquest web serveix com a repositori obert dels meus recursos docents, projectes acadèmics i experiència professional.
+Copia i substitueix tot el contingut del teu index.md:
+
+Markdown
+
+---
+permalink: /
+title: "Benvinguts al meu Portfoli Digital"
+excerpt: "Professor d'Informàtica (FP) especialitzat en Desenvolupament d'Aplicacions i Administració de Sistemes."
+author_profile: true
+---
+
+<style>
+/* Estils per a les targetes principals */
+.home-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 20px;
+  margin-top: 30px;
+}
+
+.home-card {
+  background: #fff;
+  border: 1px solid #e1e4e8;
+  border-radius: 8px;
+  padding: 25px;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.05);
+  transition: transform 0.2s, box-shadow 0.2s;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.home-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 10px 20px rgba(0,0,0,0.1);
+}
+
+.home-card h3 {
+  margin-top: 0;
+  color: #24292e;
+  border-bottom: 2px solid #f1f8ff;
+  padding-bottom: 10px;
+}
+
+/* Estils per a la biografia destacada */
+.bio-box {
+  background-color: #f6f8fa;
+  border-left: 5px solid #0366d6;
+  padding: 20px;
+  border-radius: 4px;
+  margin-bottom: 30px;
+  font-size: 1.05em;
+  line-height: 1.6;
+}
+
+/* Estils per als "Badges" de tecnologies */
+.tech-badge {
+  display: inline-block;
+  padding: 5px 12px;
+  margin: 3px;
+  border-radius: 15px;
+  font-size: 0.85em;
+  font-weight: bold;
+  color: #fff;
+}
+.bg-java { background-color: #f89820; }
+.bg-sql { background-color: #00758f; }
+.bg-web { background-color: #e34c26; }
+.bg-db { background-color: #4479a1; }
+.bg-sys { background-color: #333; }
+
+</style>
+
+<div class="bio-box">
+  <p>Hola! Soc <strong>Oriol Gómez Díaz</strong>, enginyer tècnic informàtic i professor de Formació Professional en la família d'Informàtica i Comunicacions.</p>
+  
+  <p>Sóc docent per vocació i Enginyer per convicció. Després d'anys al sector privat gestionant projectes tecnològics, CRM i infraestructures, vaig decidir bolcar la meva experiència a l'aula. Actualment imparteixo <strong>ASIX</strong> a l'IEDIB i anteriorment <strong>DAM</strong> al CIFP Pere de Son Gall.</p>
+  
+  <p><em>"El meu camí no ha estat lineal, i això és el que més valor aporta a les meves classes: una visió real del món laboral."</em></p>
+</div>
 
 ---
 
-## I què trobaràs aquí?
+## 🚀 Què trobaràs aquí?
 
-He estructurat els continguts en tres grans blocs per facilitar l'accés als alumnes i companys:
+Selecciona l'àrea que t'interessi per accedir als recursos:
 
-###  Docència DAM (Desenvolupament)
-Recursos, guies i exercicis pràctics per als mòduls del Cicle de Desenvolupament d'Aplicacions Multiplataforma:
-* **0488 - Desenvolupament d'Interfícies:** Usabilitat i Figma.
-* **0491 - Sistemes de Gestió Empresarial:** ERPs i Odoo.
-* **0483 - Digitalització i Sistemes Informàtics.**
+<div class="home-grid">
 
-[👉 Veure recursos de DAM](/dam/){: .btn .btn--info}
+  <div class="home-card" style="border-top: 4px solid #17a2b8;">
+    <h3>💻 Docència DAM</h3>
+    <p>Recursos per a desenvolupadors d'aplicacions multiplataforma.</p>
+    <ul>
+      <li>Interfícies (UX/UI)</li>
+      <li>Gestió Empresarial (ERPs)</li>
+      <li>Digitalització</li>
+    </ul>
+    <a href="/dam/" class="btn btn--info btn--large">👉 Veure recursos DAM</a>
+  </div>
 
-###  Docència ASIX (Sistemes)
-Materials enfocats a la gestió de dades i infraestructures per al Cicle d'Administració de Sistemes:
-* **0372 - Gestió de Bases de Dades:** SQL i disseny relacional.
-* **0377 - Administració de Sistemes Gestors de Bases de Dades:** Seguretat, optimització i PL/SQL.
+  <div class="home-card" style="border-top: 4px solid #28a745;">
+    <h3>📡 Docència ASIX</h3>
+    <p>Materials per a l'administració de sistemes i dades.</p>
+    <ul>
+      <li>Gestió de Bases de Dades (SQL)</li>
+      <li>Administració de SGBD (Seguretat)</li>
+    </ul>
+    <br>
+    <a href="/asix/" class="btn btn--success btn--large">👉 Veure recursos ASIX</a>
+  </div>
 
-[👉 Veure recursos d'ASIX](/asix/){: .btn .btn--success}
+  <div class="home-card" style="border-top: 4px solid #ffc107;">
+    <h3>🎓 Recerca i Projectes</h3>
+    <p>La meva trajectòria acadèmica i projectes personals.</p>
+    <ul>
+      <li><strong>TFM:</strong> IoT a l'aula de tecnologia.</li>
+      <li><strong>TFG:</strong> Gestió IQPIB.</li>
+      <li><strong>Blog:</strong> Articles tècnics.</li>
+    </ul>
+    <a href="/projectes-academics/" class="btn btn--warning btn--large">📄 Veure Projectes</a>
+  </div>
 
-###  Recerca i Projectes
-Un espai on comparteixo la meva trajectòria acadèmica més enllà de l'aula:
-* **TFM (Màster de Professorat):** Treball sobre l'ús de dispositius IoT a l'aula de tecnologia de 4rt d'ESO.
-* **TFG (Grau):** Millora del procediment de gestió de l'IQPIB.
-* **Blog Personal:** Articles sobre tecnologia i educació.
-
-[📄 Veure Projectes i TFM](/projectes-academics/){: .btn .btn--warning}
+</div>
 
 ---
 
 ## 🛠️ Stack Tecnològic
 
-Aquestes són les tecnologies amb les que treballo habitualment a l'aula i en projectes personals:
+Eines i tecnologies amb les que treballo a l'aula i en projectes:
 
-| Àrea | Tecnologies |
-|---|---|
-| **Llenguatges** | Java, SQL, PL/SQL |
-| **Web & UI** | HTML5/CSS3, Markdown, Figma |
-| **Bases de Dades** | MySQL, PostgreSQL, MongoDB |
-| **Sistemes** | Linux, Docker, Git |
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+  <span class="tech-badge bg-java">Java</span>
+  <span class="tech-badge bg-java">Spring Boot</span>
+  <span class="tech-badge bg-sql">SQL / PL-SQL</span>
+  <span class="tech-badge bg-java">Python</span>
+  
+  <span class="tech-badge bg-web">HTML5 / CSS3</span>
+  <span class="tech-badge bg-web">Angular</span>
+  <span class="tech-badge bg-web">Figma</span>
+  
+  <span class="tech-badge bg-db">MySQL</span>
+  <span class="tech-badge bg-db">PostgreSQL</span>
+  <span class="tech-badge bg-db">MongoDB</span>
+  
+  <span class="tech-badge bg-sys">Linux</span>
+  <span class="tech-badge bg-sys">Docker</span>
+  <span class="tech-badge bg-sys">Git / GitHub</span>
+  <span class="tech-badge bg-sys">Salesforce</span>
+</div>
 
 ---
 
 ### 📬 Contacte
 
-Estic sempre obert a col·laboracions, dubtes dels alumnes o projectes interessants.
-Pots consultar el meu perfil professional complet a LinkedIn o descarregar el meu CV actualitzat.
+Estic sempre obert a col·laboracions i a resoldre dubtes.
 
-[<i class="fab fa-linkedin"></i> El meu LinkedIn](https://www.linkedin.com/in/oriolgomezdiaz/){: .btn .btn--primary}  [📄 Descarregar CV (PDF)](/assets/pdfs/el_meu_curriculum.pdf){: .btn}
+[<i class="fab fa-linkedin"></i> El meu LinkedIn](https://www.linkedin.com/in/oriolgomezdiaz/){: .btn .btn--primary .btn--large target="_blank"}  
+[📄 Descarregar CV (PDF)](/assets/pdfs/el_meu_curriculum.pdf){: .btn .btn--inverse .btn--large target="_blank"}
