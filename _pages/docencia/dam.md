@@ -7,7 +7,7 @@ header:
   overlay_image: "ima-dam.jpg"
   overlay_filter: 0.5
   caption: "Cicle Formatiu de Grau Superior"
-
+---
 
 <style>
 .grid-container {
@@ -62,25 +62,25 @@ header:
 <div class="grid-container">
 
   <div class="grid-item">
-    <h3>⚙️ 0483 - Sistemes Informàtics</h3>
+    <h3>⚙️ M01 - Sistemes</h3>
     <p>La base del maquinari. Virtualització, Linux, Windows i Xarxes.</p>
     <a href="/dam/sistemes-informatics/" class="grid-btn">Accedir al material</a>
   </div>
   
   <div class="grid-item">
-    <h3>💾 Digitalització aplicada al sector productiu</h3>
+    <h3>💾 Digitalització</h3>
     <p>Transformació digital. Indústria 4.0, Cloud, IoT i Seguretat.</p>
     <a href="/dam/digitalitzacio/" class="grid-btn">Accedir al material</a>
   </div>
 
   <div class="grid-item">
-    <h3>🏢 0491 - Sistemes de Gestió Empresarial </h3>
+    <h3>🏢 M10 - Gestió (SGE)</h3>
     <p>Implantació d'ERPs i CRMs. Odoo, Python i APIs.</p>
     <a href="/dam/sge/" class="grid-btn">Accedir al material</a>
   </div>
 
   <div class="grid-item">
-    <h3>🖥️ 0488 - Desenvolupament d'interfícies</h3>
+    <h3>🖥️ M07 - Interfícies</h3>
     <p>Capa visual d'aplicacions. JavaFX, Figma, Usabilitat i UX/UI.</p>
     <a href="/dam/interficies/" class="grid-btn">Accedir al material</a>
   </div>
