@@ -8,7 +8,7 @@ toc_label: "Índex de Continguts"
 toc_icon: "cog"
 toc_sticky: true
 header:
-  overlay_image: 'ima-si.jpg'
+  overlay_image: "ima-si.jpg"
   overlay_filter: 0.5
   caption: "Hardware, Software i Xarxes"
 ---
