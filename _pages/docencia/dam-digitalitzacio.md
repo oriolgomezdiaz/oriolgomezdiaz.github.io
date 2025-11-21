@@ -29,13 +29,9 @@ Introducció a les tecnologies disruptives que estan canviant la manera de produ
     * Diferència entre Digitalització i Transformació Digital.
     * [📄 Consulta els apunts ](https://oriolgomezdiaz.github.io/apunts-digitalitzacio){: .btn .btn--info .btn--small target="_blank"}
 
-### 📺 Vídeos explicatius
-* [▶️ Què és la Indústria 4.0? (Explicació ràpida)](https://youtu.be/VIDEO_ID_1){: target="_blank"}
-* [▶️ Exemples reals de IoT a l'empresa](https://youtu.be/VIDEO_ID_2){: target="_blank"}
-
 ### 🛠️ Pràctica
 1.  **Activitat:** Anàlisi d'un cas d'èxit de transformació digital (Estudi de cas).
-    * [📥 Descarregar Enunciat 1](/files/pdfs/E01-Anàlisi-de-la-Digitalitzacio.pdf){: .btn .btn--warning target="_blank"}
+    * [📥 Descarregar Pràctica 1](/files/pdfs/E01-Anàlisi-de-la-Digitalitzacio.pdf){: .btn .btn--warning target="_blank"}
 
 ---
 
