@@ -35,7 +35,7 @@ Introducció a les tecnologies disruptives que estan canviant la manera de produ
 
 ### 🛠️ Pràctica
 1.  **Activitat:** Anàlisi d'un cas d'èxit de transformació digital (Estudi de cas).
-    * [📥 Descarregar Enunciat 1](oriolgomezdiaz/oriolgomezdiaz.github.io/files/pdfs/DI_E01. Anàlisi de la Digitalització_v1.pdf){: .btn .btn--warning target="_blank"}
+    * [📥 Descarregar Enunciat 1](/files/pdfs/E01-Anàlisi-de-la-Digitalitzacio.pdf){: .btn .btn--warning target="_blank"}
 
 ---
 
