@@ -4,7 +4,7 @@ permalink: /asix/
 layout: splash
 author_profile: false
 header:
-  overlay_image: "https://oriolgomezdiaz.github.io/assets/images/ima-database.jpg"
+  overlay_image: "ima-database.jpg"
   overlay_filter: 0.5
   caption: "Infraestructura i Dades"
 ---
