@@ -6,11 +6,10 @@ author_profile: true
 ---
 
 <style>
-/* Estils per a les targetes principals */
 .home-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-  gap: 20px;
+  gap: 25px; /* Una mica més d'espai entre caixes */
   margin-top: 30px;
 }
 
@@ -36,9 +35,9 @@ author_profile: true
   color: #24292e;
   border-bottom: 2px solid #f1f8ff;
   padding-bottom: 10px;
+  font-size: 1.4em;
 }
 
-/* Estils per a la biografia destacada */
 .bio-box {
   background-color: #f6f8fa;
   border-left: 5px solid #0366d6;
@@ -49,7 +48,6 @@ author_profile: true
   line-height: 1.6;
 }
 
-/* Estils per als "Badges" de tecnologies */
 .tech-badge {
   display: inline-block;
   padding: 5px 12px;
@@ -64,91 +62,94 @@ author_profile: true
 .bg-web { background-color: #e34c26; }
 .bg-db { background-color: #4479a1; }
 .bg-sys { background-color: #333; }
-
 </style>
 
 <div class="bio-box">
-  <p>Hola! Soc <strong>Oriol Gómez Díaz</strong>, enginyer tècnic informàtic i professor de Formació Professional en la família d'Informàtica i Comunicacions.</p>
+  <p>Hola! Sóc <strong>Oriol Gómez Díaz</strong>, enginyer tècnic informàtic i professor de Formació Professional en la família d'Informàtica i Comunicacions.</p>
   
   <p>Sóc docent per vocació i Enginyer per convicció. Després d'anys al sector privat gestionant projectes tecnològics, CRM i infraestructures, vaig decidir bolcar la meva experiència a l'aula. Actualment imparteixo <strong>ASIX</strong> a l'IEDIB i anteriorment <strong>DAM</strong> al CIFP Pere de Son Gall.</p>
   
-  <p><em>"El meu camí no ha estat lineal, i això és el que més valor aporta a les meves classes: una visió real del món laboral."</em></p>
+  <p><em>"El meu camí no ha estat lineal, i això és el que més valor aporta a les meves classes: tinc una visió real del món laboral."</em></p>
 </div>
 
 ---
 
 ## 🚀 Què trobaràs aquí?
 
-Selecciona l'àrea que t'interessi per accedir als recursos:
+Poso a la teva disposició els meus apunts i recursos a l'aula. Els he classificat per Cicle Formatiu. Tria els que vulguis:
 
 <div class="home-grid">
 
   <div class="home-card" style="border-top: 4px solid #17a2b8;">
-    <h3>💻 Docència DAM</h3>
+    <h3>💻 CFGS DAM</h3>
     <p>Recursos per a desenvolupadors d'aplicacions multiplataforma.</p>
     <ul>
-      <li>Interfícies (UX/UI)</li>
+      <li>Desenvolupament d'Interfícies (UX/UI)</li>
       <li>Gestió Empresarial (ERPs)</li>
-      <li>Digitalització</li>
+      <li>Sistemes informàtics</li>
+      <li>Digitalització aplicada al sector productiu</li>
     </ul>
-    <a href="/dam/" class="btn btn--info btn--large">👉 Veure recursos DAM</a>
+    <a href="/dam/" class="btn btn--info btn--large">👉 Recursos DAM</a>
   </div>
 
   <div class="home-card" style="border-top: 4px solid #28a745;">
-    <h3>📡 Docència ASIX</h3>
-    <p>Materials per a l'administració de sistemes i dades.</p>
+    <h3>📡 CFGS ASIX</h3>
+    <p>Materials per a l'administració de sistemes i bases de dades.</p>
     <ul>
       <li>Gestió de Bases de Dades (SQL)</li>
-      <li>Administració de SGBD (Seguretat)</li>
+      <li>Administració de Sistemes Gestors de Bases de Dades</li>
     </ul>
     <br>
-    <a href="/asix/" class="btn btn--success btn--large">👉 Veure recursos ASIX</a>
+    <a href="/asix/" class="btn btn--success btn--large">👉 Recursos ASIX</a>
   </div>
 
   <div class="home-card" style="border-top: 4px solid #ffc107;">
-    <h3>🎓 Recerca i Projectes</h3>
-    <p>La meva trajectòria acadèmica i projectes personals.</p>
+    <h3>🎓 Projectes Acadèmics</h3>
+    <p>Recerca educativa i desenvolupament tècnic universitari.</p>
     <ul>
-      <li><strong>TFM:</strong> IoT a l'aula de tecnologia.</li>
-      <li><strong>TFG:</strong> Gestió IQPIB.</li>
-      <li><strong>Blog:</strong> Articles tècnics.</li>
+      <li><strong>TFM:</strong> Metodologies àgils i IoT.</li>
+      <li><strong>TFG:</strong> Desenvolupament de programari.</li>
     </ul>
     <a href="/projectes-academics/" class="btn btn--warning btn--large">📄 Veure Projectes</a>
+  </div>
+
+  <div class="home-card" style="border-top: 4px solid #d63384;">
+    <h3>📝 Bloc i Apunts</h3>
+    <p>Articles i reflexions sobre el sector TIC.</p>
+    <ul>
+      <li>Novetats tecnològiques.</li>
+      <li>Curiositats informàtiques.</li>
+    </ul>
+    <a href="/bloc/" class="btn btn--danger btn--large">📰 Llegir el Bloc</a>
   </div>
 
 </div>
 
 ---
 
-## 🛠️ Stack Tecnològic
+## 🛠️ Stack tecnològic
 
 Eines i tecnologies amb les que treballo a l'aula i en projectes:
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
   <span class="tech-badge bg-java">Java</span>
-  <span class="tech-badge bg-java">Spring Boot</span>
-  <span class="tech-badge bg-sql">SQL / PL-SQL</span>
-  <span class="tech-badge bg-java">Python</span>
-  
+  <span class="tech-badge bg-sql">SQL</span>
   <span class="tech-badge bg-web">HTML5 / CSS3</span>
-  <span class="tech-badge bg-web">Angular</span>
   <span class="tech-badge bg-web">Figma</span>
-  
   <span class="tech-badge bg-db">MySQL</span>
   <span class="tech-badge bg-db">PostgreSQL</span>
   <span class="tech-badge bg-db">MongoDB</span>
-  
   <span class="tech-badge bg-sys">Linux</span>
-  <span class="tech-badge bg-sys">Docker</span>
-  <span class="tech-badge bg-sys">Git / GitHub</span>
+  <span class="tech-badge bg-sys">Git</span>
   <span class="tech-badge bg-sys">Salesforce</span>
+  <span class="tech-badge bg-sys">Odoo</span>
 </div>
 
 ---
 
 ### 📬 Contacte
 
-Estic sempre obert a col·laboracions i a resoldre dubtes.
+Estic sempre obert a col·laboracions i a resoldre dubtes. Contacta'm.
 
 [<i class="fab fa-linkedin"></i> El meu LinkedIn](https://www.linkedin.com/in/oriolgomezdiaz/){: .btn .btn--primary .btn--large target="_blank"}  
 [📄 Descarregar CV (PDF)](/assets/pdfs/el_meu_curriculum.pdf){: .btn .btn--inverse .btn--large target="_blank"}
