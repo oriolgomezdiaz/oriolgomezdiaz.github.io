@@ -27,7 +27,7 @@ Com a part del meu compromís amb la millora contínua del centre, he participat
 * **Descripció:** Membre actiu de la Comissió de Millora del Pla de Comunicació del **CIFP Pere de Son Gall**.
 * **Tasca:** Anàlisi dels canals existents, proposta de millores digitals i implementació de nous protocols de comunicació interna i externa.
 
-[📄 Veure Certificat (PDF)](/files/pdfs/Certificat-Oriol-Comunicació.pdf){: .btn .btn--success .btn--large target="_blank"}
+[📄 Veure Certificat (PDF)](/files/pdfs/Certificat-Oriol-Comunicacio.pdf){: .btn .btn--success .btn--large target="_blank"}
 
 ---
 
