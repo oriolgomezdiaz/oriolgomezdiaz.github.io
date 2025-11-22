@@ -4,34 +4,45 @@ permalink: /contacte/
 layout: splash
 author_profile: false
 header:
-  overlay_image: "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?ixlib=rb-1.2.1&auto=format&fit=crop&w=1920&q=80"
+  overlay_image: "https://images.unsplash.com/photo-1423666639041-f56000c27a9a?ixlib=rb-1.2.1&auto=format&fit=crop&w=1920&q=80"
   overlay_filter: 0.5
-  caption: "Competència i Connexió"
+  caption: "Parlem?"
 ---
 
 <style>
-/* --- ESTILS GENERALS --- */
-.page-intro {
-  text-align: center;
-  font-size: 1.2em;
-  margin-bottom: 40px;
-  color: #555;
+/* --- BANNER CDD (Destacat) --- */
+.cdd-banner {
+  background: linear-gradient(135deg, #f6f8fa 0%, #e9ecef 100%);
+  border-left: 6px solid #2c3e50;
+  padding: 25px;
+  border-radius: 8px;
+  margin-bottom: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.05);
 }
 
-/* --- ESTILS PER A LA TAULA CDD --- */
-.cdd-container {
-  margin-bottom: 60px;
-}
-.cdd-table-wrapper {
-  overflow-x: auto; /* Per si es veu en mòbil */
-}
+.cdd-text h3 { margin-top: 0; color: #2c3e50; }
+.cdd-text p { margin-bottom: 0; font-size: 1.1em; }
 
-/* --- ESTILS TARGETES CONTACTE (GRID 2 Columnes) --- */
+.cdd-btn {
+  background-color: #2c3e50;
+  color: white !important;
+  padding: 12px 25px;
+  border-radius: 50px;
+  text-decoration: none !important;
+  font-weight: bold;
+  transition: transform 0.2s;
+}
+.cdd-btn:hover { transform: scale(1.05); background-color: #1a252f;}
+
+/* --- TARGETES CONTACTE --- */
 .contact-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
   gap: 30px;
-  margin-top: 20px;
   margin-bottom: 50px;
 }
 
@@ -43,10 +54,6 @@ header:
   text-align: center;
   transition: all 0.3s ease;
   box-shadow: 0 4px 6px rgba(0,0,0,0.05);
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
 }
 
 .contact-item:hover {
@@ -55,10 +62,9 @@ header:
   border-color: #17a2b8;
 }
 
-.contact-icon {
-  font-size: 3em;
-  margin-bottom: 15px;
-}
+.contact-icon { font-size: 3em; margin-bottom: 15px; }
+.linkedin-color { color: #0077b5; }
+.email-color { color: #ea4335; }
 
 .contact-btn {
   display: inline-block;
@@ -66,23 +72,13 @@ header:
   padding: 10px 25px;
   color: white !important;
   text-decoration: none !important;
-  border-radius: 50px;
+  border-radius: 6px;
   font-weight: bold;
-  transition: background 0.3s;
 }
-
-/* Colors específics */
-.linkedin-color { color: #0077b5; }
-.email-color { color: #ea4335; }
-
 .btn-linkedin { background-color: #0077b5; }
-.btn-linkedin:hover { background-color: #005582; }
-
 .btn-email { background-color: #ea4335; }
-.btn-email:hover { background-color: #c23321; }
 
-
-/* --- ESTILS FORMULARI --- */
+/* --- FORMULARI --- */
 .form-section {
   background-color: #f9f9f9;
   padding: 40px;
@@ -91,74 +87,55 @@ header:
   max-width: 700px;
   margin: 0 auto;
 }
-
 .form-group { margin-bottom: 20px; }
-.form-group label { display: block; margin-bottom: 8px; font-weight: bold; color: #333; }
+.form-group label { display: block; margin-bottom: 8px; font-weight: bold; }
 .form-group input, .form-group textarea {
-  width: 100%;
-  padding: 12px;
-  border: 1px solid #ccc;
-  border-radius: 6px;
-  font-family: inherit;
-  font-size: 1em;
+  width: 100%; padding: 12px; border: 1px solid #ccc; border-radius: 6px;
 }
-
 .submit-btn {
-  background-color: #2c3e50;
-  color: white;
-  border: none;
-  padding: 15px 30px;
-  font-size: 1.1em;
-  border-radius: 6px;
-  cursor: pointer;
-  width: 100%;
-  transition: background 0.3s;
+  background-color: #17a2b8; color: white; border: none;
+  padding: 15px 30px; font-size: 1.1em; border-radius: 6px;
+  cursor: pointer; width: 100%;
 }
-.submit-btn:hover { background-color: #1a252f; }
-
+.submit-btn:hover { background-color: #138496; }
 </style>
 
-<div class="page-intro">
-  En aquest espai trobaràs la meva acreditació oficial de competència digital docent, així com les vies per contactar amb mi professionalment.
+<br>
+
+<div class="cdd-banner">
+  <div class="cdd-text">
+    <h3>🏆 Acreditació Competència Digital Docent</h3>
+    <p>Consulta les evidències i documentació del nivell <strong>C1</strong>.</p>
+  </div>
+  <div>
+    <a href="/cdd/" class="cdd-btn">📂 Veure Acreditació</a>
+  </div>
 </div>
 
 ---
 
-## 🏆 Acreditació Competència Digital Docent (CDD)
-
-Repositori d'evidències organitzat segons el Marc de Referència de la Competència Digital Docent (MRCDD).
-
-<div class="notice--info">
-  <h4>🚀 Nivell Objectiu: C1</h4>
-  <p>Accedeix al detall de cada àrea per consultar la documentació i les evidències fent clic als botons blaus.</p>
+<div style="text-align: center; margin-bottom: 30px;">
+  <h3>🤝 Connectem?</h3>
+  <p>Si vols parlar sobre docència, tecnologia o projectes, tens dues vies:</p>
 </div>
 
-<div class="cdd-table-wrapper">
-  <table>
-    <thead>
-      <tr>
-        <th>Àrea Competencial</th>
-        <th>Descripció</th>
-        <th style="width: 180px;">Accés</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td><strong>Àrea 1</strong><br>Compromís Professional</td>
-        <td>Comunicació, coordinació i pràctica reflexiva.</td>
-        <td style="text-align: center;"><a href="/cdd/area1/" class="btn btn--info btn--small">📂 Veure Àrea 1</a></td>
-      </tr>
-      <tr>
-        <td><strong>Àrea 2</strong><br>Continguts Digitals</td>
-        <td>Creació i modificació de recursos educatius.</td>
-        <td style="text-align: center;"><a href="/cdd/area2/" class="btn btn--info btn--small">📂 Veure Àrea 2</a></td>
-      </tr>
-      <tr>
-        <td><strong>Àrea 3</strong><br>Ensenyament i Aprenentatge</td>
-        <td>Gestió de l'ús de tecnologies a l'aula.</td>
-        <td style="text-align: center;"><a href="/cdd/area3/" class="btn btn--info btn--small">📂 Veure Àrea 3</a></td>
-      </tr>
-      <tr>
-        <td><strong>Àrea 4</strong><br>Avaluació</td>
-        <td>Estratègies d'avaluació digital i retroacció.</td>
-        <td style="text-align: center;"><a href="/cdd/area4/" class="btn btn--info btn--small">📂 Veure À
+<div class="contact-grid">
+
+  <div class="contact-item">
+    <div class="contact-icon linkedin-color"><i class="fab fa-linkedin"></i></div>
+    <h3>Perfil professional</h3>
+    <p>Trajectòria completa i networking.</p>
+    <a href="https://www.linkedin.com/in/oriolgomezdiaz/" target="_blank" class="contact-btn btn-linkedin">Veure LinkedIn</a>
+  </div>
+
+  <div class="contact-item">
+    <div class="contact-icon email-color"><i class="fas fa-envelope"></i></div>
+    <h3>Correu electrònic</h3>
+    <p>Propostes i consultes directes.</p>
+    <a href="mailto:oriolgomezdiaz@protonmail.com" class="contact-btn btn-email">Enviar Email</a>
+  </div>
+
+</div>
+
+---
+
