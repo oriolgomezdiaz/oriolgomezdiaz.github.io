@@ -108,7 +108,7 @@ header:
     <p>Consulta les evidències i documentació del nivell <strong>B2</strong>.</p>
   </div>
   <div>
-    <a href="/cdd/" class="cdd-btn">📂 Veure Acreditació</a>
+    <a href="_pages/Altres/cdd.md" class="cdd-btn">📂 Veure Acreditació</a>
   </div>
 </div>
 
