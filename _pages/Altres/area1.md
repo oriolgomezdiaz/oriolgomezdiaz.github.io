@@ -42,7 +42,7 @@ Mecano un procés d'autoformació constant mitjançant la creació de continguts
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; background: #000;">
   <iframe 
-    src="https://www.youtube.com/embed/LA_TEVA_ID_DEL_VIDEO" 
+    src="https://youtu.be/xyZdolwQANo" 
     style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" 
     frameborder="0" 
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
@@ -51,6 +51,6 @@ Mecano un procés d'autoformació constant mitjançant la creació de continguts
 </div>
 
 <br>
-[▶️ Veure al canal de YouTube](https://youtube.com/enllac-al-teu-video){: .btn .btn--danger target="_blank"}
+[▶️ Veure a YouTube](https://youtu.be/xyZdolwQANo){: .btn .btn--danger target="_blank"}
 
 ---
