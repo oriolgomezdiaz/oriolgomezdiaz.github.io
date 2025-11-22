@@ -14,7 +14,7 @@ header:
 
 Aquesta àrea se centra en l'ús de les tecnologies digitals per a la comunicació, la coordinació i la col·laboració professional, així com per a la millora de la pràctica docent mitjançant la reflexió continuada.
 
-[🔙 Tornar al Resum CDD](_pages/Altres/cdd.md){: .btn .btn--inverse}
+[🔙 Tornar al Resum CDD](/cdd/){: .btn .btn--inverse}
 
 ---
 
