@@ -64,7 +64,7 @@ header:
 
 .contact-icon { font-size: 3em; margin-bottom: 15px; }
 .linkedin-color { color: #0077b5; }
-.email-color { color: #ea4335; }
+.email-color { color: #f8af4eff; }
 
 .contact-btn {
   display: inline-block;
@@ -105,7 +105,7 @@ header:
 <div class="cdd-banner">
   <div class="cdd-text">
     <h3>🏆 Acreditació Competència Digital Docent</h3>
-    <p>Consulta les evidències i documentació del nivell <strong>C1</strong>.</p>
+    <p>Consulta les evidències i documentació del nivell <strong>B2</strong>.</p>
   </div>
   <div>
     <a href="/cdd/" class="cdd-btn">📂 Veure Acreditació</a>
