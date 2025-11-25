@@ -30,8 +30,8 @@ En aquest bloc introductori analitzem l'arquitectura interna d'un SGBD, els moto
 * **Tema 1: Arquitectura i Instal·lació.**
     * Funcions del SGBD, fitxers de registre (Logs) i Diccionari de Dades.
     * Motors d'emmagatzematge: Diferències entre **InnoDB** i **MyISAM**.
-    * [📄 Descarregar Apunts T1 (PDF)](/assets/pdfs/Apunts_GS_0377_1.1_IEDIB.pdf){: .btn .btn--success .btn--small}
-
+    
+    
 ### 📺 Vídeos explicatius
 * [▶️ Instal·lació de MySQL Server sobre Ubuntu](https://youtu.be/VIDEO_ID)
 
