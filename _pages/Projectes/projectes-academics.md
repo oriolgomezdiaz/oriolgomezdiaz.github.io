@@ -73,7 +73,7 @@ header:
   En aquesta secció recullo la meva activitat acadèmica més rellevant, centrada en la millora docent i el desenvolupament tècnic.
 </div>
 
-<div class="grid-container">
+<div class="grid-container" style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; align-items: start;">
 
   <div class="grid-item">
     <h4>Màster Universitari Formació del Professorat</h4>
@@ -82,7 +82,7 @@ header:
       <strong>Títol:</strong> Aplicación del Internet de las Cosas (IoT) en Proyectos Educativos de Tecnología <br><br>
       Proposta de modernització de l'assignatura de Tecnologia a secundària integrant l'Internet de les Coses (IoT) en projectes educatius pràctics. La proposta busca potenciar la competència digital de l'alumnat connectant l'aula amb la realitat tecnològica actual, transformant l'aprenentatge en una experiència innovadora i aplicada.
     </p>
-    <a href="https://doi.org/10.5281/zenodo.17859842" class="grid-btn" target="_blank">📄 Llegir la Memòria</a>
+    <a href="https://doi.org/10.5281/zenodo.17859843" class="grid-btn" target="_blank">📄 Llegir la Memòria</a>
   </div>
   
   <div class="grid-item">
@@ -92,7 +92,7 @@ header:
       <strong>Títol:</strong> Transformació digital del procediment d’acreditació de competències professionals de l’IQPIB <br><br>
       Proposta de transformació digital per a l'IQPIB: anàlisi i redisseny del procés d'acreditació de competències utilitzant metodologies BPM i PMBOK per implantar un nou sistema de gestió eficient.
     </p>
-    <a href="https://hdl.handle.net/10609/148281" class="grid-btn" target="_blank">Accés a la memòria</a>
+    <a href="https://hdl.handle.net/10609/148281" class="grid-btn" target="_blank">📄 Llegir la Memòria</a>
   </div>
 
 </div>
