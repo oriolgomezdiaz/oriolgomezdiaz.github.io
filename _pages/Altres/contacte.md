@@ -1,5 +1,5 @@
 ---
-title: "Perfil Professional i Contacte"
+title: "Perfil professional i Contacte"
 permalink: /contacte/
 layout: splash
 author_profile: false
@@ -76,7 +76,7 @@ header:
   font-weight: bold;
 }
 .btn-linkedin { background-color: #0077b5; }
-.btn-email { background-color: #ea4335; }
+.btn-email { background-color: #f8af4eff; }
 
 /* --- FORMULARI --- */
 .form-section {
