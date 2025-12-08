@@ -76,23 +76,23 @@ header:
 <div class="grid-container">
 
   <div class="grid-item">
-    <h4>Màster Professorat</h4>
+    <h4>Màster Universitari Formació del Professorat</h4>
     <h3>🎓 Treball Final de Màster (TFM)</h3>
     <p style="text-align: left;">
-      <strong>Títol:</strong> Implementació de metodologies àgils a l'aula de cicles formatius.<br><br>
-      Una recerca sobre com l'aplicació de Scrum i Kanban en mòduls de projectes millora la motivació i els resultats d'aprenentatge dels alumnes de FP.
+      <strong>Títol:</strong> Aplicación del Internet de las Cosas (IoT) en Proyectos Educativos de Tecnología <br><br>
+      Aquest Treball Final de Màster (TFM) se centra en l'aplicació pràctica de l'Internet de les Coses (IoT) dins dels projectes educatius de l'assignatura de Tecnologia. Està dirigit específicament a l'etapa d'educació secundària amb l'objectiu de millorar les competències digitals de l'alumnat mitjançant l'ús de noves tecnologies. El document proposa metodologies per integrar dispositius connectats a l'aula per enriquir el procés d'aprenentatge i fomentar la innovació educativa.
     </p>
-    <a href="/assets/pdfs/tfm-oriol.pdf" class="grid-btn" target="_blank">📄 Llegir la Memòria</a>
+    <a href="https://doi.org/10.5281/zenodo.17859842" class="grid-btn" target="_blank">📄 Llegir la Memòria</a>
   </div>
   
   <div class="grid-item">
     <h4>Enginyeria Informàtica</h4>
     <h3>💻 Treball Final de Grau (TFG)</h3>
     <p style="text-align: left;">
-      <strong>Títol:</strong> Desenvolupament d'una aplicació de gestió d'estocs.<br><br>
-      Projecte tècnic desenvolupat amb <strong>Java Spring Boot</strong> i <strong>Angular</strong>. Inclou una API REST completa i una interfície responsive per a la gestió de magatzems en temps real.
+      <strong>Títol:</strong> Transformació digital del procediment d’acreditació de competències professionals de l’IQPIB <br><br>
+      Proposta de transformació digital per a l'IQPIB: anàlisi i redisseny del procés d'acreditació de competències utilitzant metodologies BPM i PMBOK per implantar un nou sistema de gestió eficient.
     </p>
-    <a href="https://github.com/oriolgomezdiaz" class="grid-btn" target="_blank">💾 Veure Codi / Projecte</a>
+    <a href="https://hdl.handle.net/10609/148281" class="grid-btn" target="_blank">Accés a la memòria</a>
   </div>
 
 </div>
