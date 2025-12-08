@@ -80,7 +80,7 @@ header:
     <h3>🎓 Treball Final de Màster (TFM)</h3>
     <p style="text-align: left;">
       <strong>Títol:</strong> Aplicación del Internet de las Cosas (IoT) en Proyectos Educativos de Tecnología <br><br>
-      Aquest Treball Final de Màster (TFM) se centra en l'aplicació pràctica de l'Internet de les Coses (IoT) dins dels projectes educatius de l'assignatura de Tecnologia. Està dirigit específicament a l'etapa d'educació secundària amb l'objectiu de millorar les competències digitals de l'alumnat mitjançant l'ús de noves tecnologies. El document proposa metodologies per integrar dispositius connectats a l'aula per enriquir el procés d'aprenentatge i fomentar la innovació educativa.
+      Proposta de modernització de l'assignatura de Tecnologia a secundària integrant l'Internet de les Coses (IoT) en projectes educatius pràctics. La proposta busca potenciar la competència digital de l'alumnat connectant l'aula amb la realitat tecnològica actual, transformant l'aprenentatge en una experiència innovadora i aplicada.
     </p>
     <a href="https://doi.org/10.5281/zenodo.17859842" class="grid-btn" target="_blank">📄 Llegir la Memòria</a>
   </div>
