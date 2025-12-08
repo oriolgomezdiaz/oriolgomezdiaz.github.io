@@ -102,16 +102,6 @@ header:
 
 <br>
 
-<div class="cdd-banner">
-  <div class="cdd-text">
-    <h3>🏆 Acreditació de la Competència Digital Docent</h3>
-    <p>Consulta les evidències i documentació del nivell <strong>B2</strong>.</p>
-  </div>
-  <div>
-    <a href="/cdd/" class="cdd-btn">📂 Veure Acreditació</a>
-  </div>
-</div>
-
 ---
 
 <div style="text-align: center; margin-bottom: 30px;">
