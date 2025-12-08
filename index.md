@@ -151,5 +151,4 @@ Eines i tecnologies amb les que treballo a l'aula i en projectes:
 
 Estic sempre obert a col·laboracions i a resoldre dubtes. Contacta'm.
 
-[<i class="fab fa-linkedin"></i> El meu LinkedIn](https://www.linkedin.com/in/oriolgomezdiaz/){: .btn .btn--primary .btn--large target="_blank"}  
-[📄 Descarregar CV (PDF)](/assets/pdfs/el_meu_curriculum.pdf){: .btn .btn--inverse .btn--large target="_blank"}
+[<i class="fab fa-linkedin"></i> Pàgina de contacte](_pages/Altres/contacte.md){: .btn .btn--primary .btn--large target="_blank"}  
