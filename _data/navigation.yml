@@ -10,7 +10,7 @@
 main:
   - title: "Inici"
     url: /
-  - title: "Docència DAM"
+  - title: "Profe DAM"
     url: /dam/
     children:
       - title: "Sistemes Informàtics (SI)"
@@ -21,14 +21,14 @@ main:
         url: /dam/interficies/
       - title: "Sistemes Gestió (SGE)"
         url: /dam/sge/
-  - title: "Docència ASIX"
+  - title: "Profe ASIX"
     url: /asix/
     children:
       - title: "Gestió BD (GBD)"
         url: /asix/gbd/
       - title: "Admin. SGBD (ASGBD)"
         url: /asix/asgbd/
-  - title: "Investigació i Projectes"
+  - title: "Projectes"
     url: /projectes-academics/
   - title: "Bloc"
     url: /bloc/
