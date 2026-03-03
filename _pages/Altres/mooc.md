@@ -1,6 +1,6 @@
 ---
 title: "MOOC Digitaliza: Proyecto Intermodular en FP"
-permalink: /mooc-digitaliza/
+permalink: /mooc/
 layout: single
 author_profile: false
 header:
